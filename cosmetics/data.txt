@@ -1,19 +1,19 @@
-Fuji:cosmetics/cape/normal/Fuji.png
-Moon:cosmetics/cape/normal/Moon.png
-Rural:cosmetics/cape/normal/Rural.png
-Ninja:cosmetics/cape/normal/Ninja.png
-Winter:cosmetics/cape/normal/Winter.png
-Snowfall:cosmetics/cape/normal/Snowfall.png
-Present:cosmetics/cape/normal/Present.png
-YouTube:cosmetics/cape/normal/YouTube.png
-Staff:cosmetics/cape/normal/Staff.png
-Rafting:cosmetics/cape/normal/Rafting.png
-Dragon:cosmetics/wings/Dragon.png
-Ice:cosmetics/wings/Ice.png
-Cold:cosmetics/wings/Cold.png
-Golden:cosmetics/wings/Golden.png
-Worker:cosmetics/hat/Worker.png,128,-11,-11,-11,22,2,22,24,-8,-18,-8,16,7,16,0.57
-Snow Cap:cosmetics/hat/Snow-Cap.png,1600,-125,-140,-188,250,25,313,338,-125,-240,-125,250,100,250,0.038
-Staff Cap:cosmetics/hat/Staff-Cap.png,1600,-125,-140,-188,250,25,313,338,-125,-240,-125,250,100,250,0.038
-Mikaduki:cosmetics/cape/gif/Animated_Night1.png,cosmetics/cape/gif/Animated_Night2.png,cosmetics/cape/gif/Animated_Night3.png,cosmetics/cape/gif/Animated_Night4.png,cosmetics/cape/gif/Animated_Night5.png,cosmetics/cape/gif/Animated_Night6.png,cosmetics/cape/gif/Animated_Night5.png,cosmetics/cape/gif/Animated_Night4.png,cosmetics/cape/gif/Animated_Night3.png,cosmetics/cape/gif/Animated_Night2.png
-Flame:cosmetics/cape/gif/Animated_Flame1.png,cosmetics/cape/gif/Animated_Flame2.png,cosmetics/cape/gif/Animated_Flame3.png,cosmetics/cape/gif/Animated_Flame4.png,cosmetics/cape/gif/Animated_Flame5.png,cosmetics/cape/gif/Animated_Flame6.png,cosmetics/cape/gif/Animated_Flame7.png,cosmetics/cape/gif/Animated_Flame8.png,cosmetics/cape/gif/Animated_Flame9.png,cosmetics/cape/gif/Animated_Flame10.png
+Fuji:cape/normal/Fuji.png
+Moon:cape/normal/Moon.png
+Rural:cape/normal/Rural.png
+Ninja:cape/normal/Ninja.png
+Winter:cape/normal/Winter.png
+Snowfall:cape/normal/Snowfall.png
+Present:cape/normal/Present.png
+YouTube:cape/normal/YouTube.png
+Staff:cape/normal/Staff.png
+Rafting:cape/normal/Rafting.png
+Dragon:wings/Dragon.png
+Ice:wings/Ice.png
+Cold:wings/Cold.png
+Golden:wings/Golden.png
+Worker:hat/Worker.png,128,-11,-11,-11,22,2,22,24,-8,-18,-8,16,7,16,0.57
+Snow Cap:hat/Snow-Cap.png,1600,-125,-140,-188,250,25,313,338,-125,-240,-125,250,100,250,0.038
+Staff Cap:hat/Staff-Cap.png,1600,-125,-140,-188,250,25,313,338,-125,-240,-125,250,100,250,0.038
+Mikaduki:cape/gif/Animated_Night1.png,cape/gif/Animated_Night2.png,cape/gif/Animated_Night3.png,cape/gif/Animated_Night4.png,cape/gif/Animated_Night5.png,cape/gif/Animated_Night6.png,cape/gif/Animated_Night5.png,cape/gif/Animated_Night4.png,cape/gif/Animated_Night3.png,cape/gif/Animated_Night2.png
+Flame:cape/gif/Animated_Flame1.png,cape/gif/Animated_Flame2.png,cape/gif/Animated_Flame3.png,cape/gif/Animated_Flame4.png,cape/gif/Animated_Flame5.png,cape/gif/Animated_Flame6.png,cape/gif/Animated_Flame7.png,cape/gif/Animated_Flame8.png,cape/gif/Animated_Flame9.png,cape/gif/Animated_Flame10.png
